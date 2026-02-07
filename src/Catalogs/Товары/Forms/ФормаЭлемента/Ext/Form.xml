@@ -78,6 +78,12 @@
 				<Event name="OnChange">ВидПриИзменении</Event>
 			</Events>
 		</RadioButtonField>
+		<InputField name="ЕдиницаИзмерения" id="69">
+			<DataPath>Объект.ЕдиницаИзмерения</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ЕдиницаИзмеренияКонтекстноеМеню" id="70"/>
+			<ExtendedTooltip name="ЕдиницаИзмеренияРасширеннаяПодсказка" id="71"/>
+		</InputField>
 		<InputField name="Артикул" id="5">
 			<DataPath>Объект.Артикул</DataPath>
 			<FooterHorizontalAlign>Left</FooterHorizontalAlign>
