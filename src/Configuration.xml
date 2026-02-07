@@ -496,6 +496,7 @@
 			<Catalog>ИсходящиеПисьма</Catalog>
 			<Catalog>ХранилищеВариантовОтчетов</Catalog>
 			<Catalog>Встречи</Catalog>
+			<Catalog>ЕдиницыИзмерения</Catalog>
 			<Document>Заказ</Document>
 			<Document>ОперацияПоУчетуТоваров</Document>
 			<Document>Оплата</Document>
@@ -521,6 +522,7 @@
 			<Report>ПрайсЛист</Report>
 			<Report>АнализЗаказов</Report>
 			<Report>ОстаткиТоваровНаСкладахМобильный</Report>
+			<Report>ПлатежныйКалендарь</Report>
 			<DataProcessor>АдминистративныйСервис</DataProcessor>
 			<DataProcessor>ДемонстрацияВозможностейДиаграмм</DataProcessor>
 			<DataProcessor>ЖурналРегистрации</DataProcessor>
